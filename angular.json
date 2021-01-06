@@ -55,6 +55,7 @@
               "src/assets"
             ],
             "styles": [
+              "C:\\Users\\lilyl\\Desktop\\Tri Sci\\node_modules\\bulma\\css\\bulma.css",
               "src/styles.scss"
             ],
             "scripts": []
